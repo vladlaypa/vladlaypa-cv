@@ -1694,9 +1694,9 @@ a.btn-slider:hover {
 a.btn-custom:hover, .btn-custom:hover {
 	color: #fff;
 	opacity: .8;
-	-webkit-box-shadow: 8px 8px 40px 0px rgba(0, 0, 0, 0.3);
-	-moz-box-shadow: 8px 8px 40px 0px rgba(0, 0, 0, 0.3);
-	box-shadow: 8px 8px 40px 0px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.3);
+	box-shadow: 4px 4px 10px 0px rgba(0, 0, 0, 0.3);
 }
 a.btn-slider:hover:after {
 	color: #222;
